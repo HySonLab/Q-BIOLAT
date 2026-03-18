@@ -1,4 +1,4 @@
-python experiments/plot_figure1_errorbars.py \
-  --results-dir artifacts/multiseed \
-  --prefix gfp \
-  --output-name figure1_latent_dimension_errorbars.pdf
+python experiments/plot_figure2_latent_dimension.py \
+  --input artifacts/aggregated/full_summary.csv \
+  --outdir artifacts/figures
+
