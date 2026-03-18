@@ -4,7 +4,9 @@ Source code for the BIOKDD 2026 submission:
 
 **Binary Latent Protein Fitness Landscapes for Quantum Annealing Optimization**
 
-Q-BioLat models protein fitness landscapes in a binary latent space. Protein sequences are first embedded with a pretrained protein language model (ESM), then projected and binarized, and finally fit with a QUBO surrogate for combinatorial optimization.
+![Main_Figure](Main_Figure.png)
+
+Q-BioLat models protein fitness landscapes in a binary latent space. Protein sequences are first embedded with a pretrained protein language model (ESM), then projected and binarized, and finally fit with a QUBO surrogate for combinatorial optimization. The paper is available here: ![Q-BIOLAT](Q-BIOLAT.pdf)
 
 ## Repository layout
 
