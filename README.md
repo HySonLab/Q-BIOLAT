@@ -88,16 +88,3 @@ PYTHONPATH=. python experiments/run_full_benchmark.py
 
 Outputs are written to `artifacts/`.
 
-## Notes
-
-- The synthetic peptides are placeholders.
-- The latent codes are binary random vectors with a hidden QUBO-style fitness landscape.
-- This package is designed to be an extensible scaffold for real peptide or protein latent codes.
-
-## Suggested next extensions
-
-- Plug in real encoder-produced binary latents
-- Add decoder / nearest-neighbor decoding
-- Add uncertainty penalties
-- Integrate ProteinGym or protein fitness datasets
-- Replace the lightweight BO baseline with a full GP-based implementation
