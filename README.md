@@ -330,6 +330,14 @@ python experiments/render_multiseed_table.py   --input artifacts/gfp_10000_pca_1
 
 If you use this repository, please cite the corresponding paper:
 
-```text
-Truong-Son Hy. Binary Latent Protein Fitness Landscapes for Quantum Annealing Optimization. BIOKDD 2026.
+```bibtex
+@misc{hy2026binarylatentproteinfitness,
+      title={Binary Latent Protein Fitness Landscapes for Quantum Annealing Optimization}, 
+      author={Truong-Son Hy},
+      year={2026},
+      eprint={2603.17247},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.17247}, 
+}
 ```
