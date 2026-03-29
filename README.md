@@ -8,6 +8,10 @@ Source code for the BIOKDD 2026 submission:
 
 Q-BioLat models protein fitness landscapes in a binary latent space. Protein sequences are first embedded with a pretrained protein language model (ESM), then projected and binarized, and finally fit with a QUBO surrogate for combinatorial optimization. The paper is available here: ![Q-BIOLAT](Q-BIOLAT.pdf)
 
+The extended version of this repository with a lot more experiments is at: 
+
+https://github.com/HySonLab/Q-BIOLAT-Extended
+
 ## Repository layout
 
 ```text
