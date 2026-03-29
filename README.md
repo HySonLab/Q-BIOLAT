@@ -341,3 +341,17 @@ If you use this repository, please cite the corresponding paper:
       url={https://arxiv.org/abs/2603.17247}, 
 }
 ```
+
+## Contact
+
+Prof. Truong-Son Hy, Ph.D.
+
+Department of Computer Science & Heersink School of Medicine
+
+The University of Alabama at Birmingham, United States
+
+Email: thy@uab.edu
+
+## License
+This project is released under the MIT License.
+
