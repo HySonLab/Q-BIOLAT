@@ -12,6 +12,10 @@ The extended version of this repository with a lot more experiments is at:
 
 https://github.com/HySonLab/Q-BIOLAT-Extended
 
+The full paper is available at:
+
+https://arxiv.org/pdf/2603.27526
+
 ## Repository layout
 
 ```text
